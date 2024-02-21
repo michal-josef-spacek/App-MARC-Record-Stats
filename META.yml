@@ -29,6 +29,7 @@ requires:
   Getopt::Std: 0
   List::Util: 1.33
   MARC::File::XML: 1.0.4
+  MARC::Record::Stats: 0
   Readonly: 0
   Unicode::UTF8: 0
   perl: 5.6.0

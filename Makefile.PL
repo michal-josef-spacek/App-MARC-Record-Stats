@@ -25,6 +25,7 @@ requires 'Error::Pure' => 0;
 requires 'Getopt::Std' => 0;
 requires 'List::Util' => 1.33;
 requires 'MARC::File::XML' => '1.0.4';
+requires 'MARC::Record::Stats' => 0;
 requires 'Readonly' => 0;
 requires 'Unicode::UTF8' => 0;
 resources 'bugtracker' => 'https://github.com/michal-josef-spacek/App-MARC-Record-Stats/issues',
