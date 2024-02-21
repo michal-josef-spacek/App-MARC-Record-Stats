@@ -1,0 +1,11 @@
+TODO
+====
+2. Support USMARC MARC file.
+3. Improve Reporting (--dots param, output file)
+4. Tests.
+5.
+
+Applied
+=======
+1. Support XML MARC file.
+OK [20240221] skim
