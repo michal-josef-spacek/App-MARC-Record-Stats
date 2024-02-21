@@ -34,7 +34,7 @@ resources 'repository' => 'git://github.com/michal-josef-spacek/App-MARC-Record-
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
 tests_recursive;
-version '0.01';
+version '0.02';
 
 # Run.
 WriteAll();
